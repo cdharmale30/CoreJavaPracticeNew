@@ -5,6 +5,8 @@ public class Narrowing {
 		double d= 300.00;
 		System.out.println(d);
 		int i=(int) d;
+		
+		float f=(float) d;
 		System.out.println("Test i: "+i);
 	}
 
